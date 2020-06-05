@@ -1,2 +1,2 @@
 # Pesterchum-Discord-Theme
-BetterDiscord theme based on the webcomic Homestuck's Chat Clients
+BetterDiscord theme that emulates the look and feel of the chat clients shown within the webcomic Homestuck. Supports both Light and Dark themes.
