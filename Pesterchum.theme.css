@@ -1,7 +1,7 @@
 /**
  * @name Pesterchum Discord
  * @author Winter Clover#8124
- * @version 0.4.0
+ * @version 0.5.0
  * @description Emulates the look and feel of the chat clients shown within the webcomic Homestuck. Supports only Light Mode at the moment.
 */
 
@@ -66,16 +66,16 @@
 	background-color: var(--p-secondary);
 	border-radius: 0px;
 }
-.theme-light .chatContent-a9vAAp {
+.theme-light .chatContent-a9vAAp, .theme-light .tabBody-3YRQ8W {
 	background-color: var(--p-primary);
 }
-.theme-light .messagesWrapper-1sRNjr {
+.theme-light .messagesWrapper-1sRNjr, .theme-light .peopleColumn-29fq28, .theme-light .nowPlayingColumn-2sl4cE {
 	background-color: var(--background-primary);
 	margin: 16px;
 	border: .5vh solid;
 	border-color: var(--p-secondary);
 }
-.theme-light .chat-3bRxxu {
+.theme-light .chat-3bRxxu, .theme-light .container-1D34oG {
 	border-left: .5vh solid;
 	border-color: var(--p-teriary);
 }
@@ -98,14 +98,14 @@
 .theme-light .withFrame-haYltI,.theme-light .bg-h5JY_x {
 	background-color: var(--p-primary);
 }
-.theme-light .container-1r6BKw .clickable-3rdHwn .icon-22AiRD {
+.theme-light .container-1r6BKw .clickable-3rdHwn .icon-22AiRD, .theme-light .themed-OHr7kt.item-PXvHYJ{
     color: var(--l-normal);
 }
-.theme-light .container-1r6BKw .selected-1GqIat .icon-22AiRD {
-    color: var(--l-active);
-}
-.theme-light .container-1r6BKw .clickable-3rdHwn:hover .icon-22AiRD {
+.theme-light .container-1r6BKw .clickable-3rdHwn:hover .icon-22AiRD, .theme-light .themed-OHr7kt.item-PXvHYJ:hover {
 	color:var(--l-hover);
+}
+.theme-light .container-1r6BKw .selected-1GqIat .icon-22AiRD, .theme-light .selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha.item-PXvHYJ:hover {
+    color: var(--l-active);
 }
 .theme-light .icon-22AiRD{
 	color: white;
@@ -116,14 +116,14 @@
 .theme-light .children-19S4PO:after {
 	background: linear-gradient(90deg,hsla(0,0%,100%,0) 0,var(--message-background-alt));
 }
-.theme-light .base-1x0h_U {
+.theme-light .title-29uC1r {
 	color: white;
 }
 .theme-light .topic-TCb_qw {
 	color: white;
 }
 .theme-light .nicknames-1XK4Zt {
-	color:white;
+	color: white;
 }
 /*Sidebar*/
 .theme-light .sidebar-2K8pFh:before {
@@ -134,7 +134,7 @@
 	padding: 10.8px 0px 10.8px;
 	color: white;
 }
-.theme-light .button-14-BFJ {
+.theme-light .button-14-BFJ{
 	color: var(--alt-normal);
 }
 .theme-light .button-14-BFJ.enabled-2cQ-u7:hover {
@@ -207,15 +207,15 @@
 .theme-light .selected-aXhQR6 .layout-2DM8Md {
     background-color: var(--alt-modifier-selected);
 }
-.theme-light .container-2Pjhx- {
+.theme-light .privateChannels-1nO12o .container-2Pjhx- {
 	color: var(--channels-alt);
 }
-.theme-light .clickable-1JJAn8.container-2Pjhx-:active,.theme-light .highlighted-1gWxXa.container-2Pjhx-,.theme-light .selected-aXhQR6.container-2Pjhx- {
+.theme-light .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:active,.theme-light .privateChannels-1nO12o .highlighted-1gWxXa.container-2Pjhx-,.theme-light .selected-aXhQR6.container-2Pjhx- {
 	color: var(--alt-active);
 }
-.theme-light .clickable-1JJAn8.container-2Pjhx-:hover,.theme-light .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i {
+.theme-light .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover,.theme-light .privateChannels-1nO12o .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i {
 	color:var(--alt-hover);
-	}
+}
 
 .theme-light .wrapper-1ucjTd:hover .content-3at_AU {
     background-color: var(--alt-modifier-hover);
