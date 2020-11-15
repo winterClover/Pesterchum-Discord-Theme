@@ -287,3 +287,13 @@
 	font-size: 16px;
 	color: white;
 }
+/*vc*/
+.theme-light .listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .username-3KYl0N,.theme-light .usernameSpeaking-RmltQx {
+	color: var(--alt-active);
+}
+.listDefault-3ir5aS .clickable-1lCRLF:hover .username-3KYl0N {
+	color: var(--alt-hover);
+}
+.theme-light .icon-2IuuZd,.theme-light .username-3KYl0N {
+	color: var(--channels-alt);
+}
