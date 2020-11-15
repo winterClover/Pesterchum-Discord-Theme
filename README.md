@@ -5,5 +5,5 @@ BetterDiscord theme that emulates the look and feel of the chat client, Pesterch
 
 ## Images
 
-![Light Mode](https://imgur.com/Ir8xQCK)![Dark Mode](https://i.imgur.com/aK6gb6o.png)
+![Light Mode](https://i.imgur.com/Ir8xQCK.png)![Dark Mode](https://i.imgur.com/aK6gb6o.png)
 
