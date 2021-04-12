@@ -29,6 +29,14 @@
     --alt-modifier-accent: hsla(0,0%,100%,0.06);
 
 }
+.theme-dark {
+	--background-primary: black;
+	--background-secondary: #232527;
+	--background-mentioned: rgba(250,166,26,0.15);
+	--background-mentioned-hover: rgba(250,166,26,0.18);
+	--background-message-hover: rgba(216,216,220,0.08);
+	--scrollbar-auto-thumb: #40444A;
+}
 .theme-light {
 	--channeltextarea-background: #fff;
 	
