@@ -8,7 +8,13 @@
 @import url('https://winterclover.github.io/Pesterchum-Discord-Theme/fonts/stylesheet.css');
 ::placeholder, body, button, input, select, textarea, inline, code{font-family: 'courier_prime';}
 
+
+
 .theme-dark, .theme-light{
+	--font-primary: courier_prime, "Courier New", Courier, monospace;
+	--font-display: courier_prime, "Courier New", Courier, monospace;
+	--font-code: courier_prime, "Courier New", Courier, monospace;
+	
 	--l-normal: #D5B975;
     --l-hover: #EDDBB1;
     --l-active: #fff;
@@ -79,6 +85,7 @@
  .chat-3bRxxu,  .container-1D34oG {
 	border-left: .5vh solid;
 	border-color: var(--p-teriary);
+	background-color: var(--p-primary);
 }
  .input-2A_zIr {
 	color: white;
@@ -304,4 +311,11 @@
 }
  .icon-2IuuZd, .username-3KYl0N {
 	color: var(--channels-alt);
+}
+.wrapper-2qzCYF.minimum-28Z35l {
+	background-color: black;
+	margin: 16px;
+	margin-bottom: 0px;
+	border: .5vh solid;
+	border-color: var(--p-secondary);
 }
