@@ -1,6 +1,6 @@
 # Pestercord
 
-**Ah Gasp! could it be! a new update?!** Nah, I abandon this project a long time ago. There's a fork that is updated and did alot of cool changes here: [fork](https://github.com/luminaryFlowers/Pesterchum-Discord-Theme)
+**Ah Gasp! could it be! a new update?!** Nah, I abandon this project a long time ago. There's a fork that is updated and did alot of cool changes here: [NEW FORK HERE](https://github.com/luminaryFlowers/Pesterchum-Discord-Theme)
 
 thanks luminaryFlowers for keeping this project alive lol, seriously tho I'm glad that someone is keeping this thing alive
 
