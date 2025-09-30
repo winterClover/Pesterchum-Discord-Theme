@@ -8,7 +8,10 @@
 @import url('https://winterclover.github.io/Pesterchum-Discord-Theme/fonts/Courier Prime/stylesheet.css');
 
 :root {
+    --font-primary: "Courier Prime", "Courier New", Courier, monospace;
     --pc-burnt: #C48A00;
     --pc-gold: #FDB302;
     --pc-yellow: #FFF700;
 }
+
+

@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'courier_primeregular';
+    font-family: "Courier Prime";
     src: url('courier_prime-webfont.woff2') format('woff2'),
          url('courier_prime-webfont.woff') format('woff');
     font-weight: 400;
@@ -15,7 +15,7 @@
 
 
 @font-face {
-    font-family: 'courier_primebold';
+    font-family: "Courier Prime";
     src: url('courier_prime_bold-webfont.woff2') format('woff2'),
          url('courier_prime_bold-webfont.woff') format('woff');
     font-weight: 700;
@@ -27,7 +27,7 @@
 
 
 @font-face {
-    font-family: 'courier_primebold_italic';
+    font-family: "Courier Prime";
     src: url('courier_prime_bold_italic-webfont.woff2') format('woff2'),
          url('courier_prime_bold_italic-webfont.woff') format('woff');
     font-weight: 700;
@@ -39,7 +39,7 @@
 
 
 @font-face {
-    font-family: 'courier_primeitalic';
+    font-family: "Courier Prime";
     src: url('courier_prime_italic-webfont.woff2') format('woff2'),
          url('courier_prime_italic-webfont.woff') format('woff');
     font-weight: 400;
@@ -51,7 +51,7 @@
 
 
 @font-face {
-    font-family: 'courier_primemedium';
+    font-family: "Courier Prime";
     src: url('courierprime-medium-webfont.woff2') format('woff2'),
          url('courierprime-medium-webfont.woff') format('woff');
     font-weight: 500;
@@ -63,7 +63,7 @@
 
 
 @font-face {
-    font-family: 'courier_primesemibold';
+    font-family: "Courier Prime";
     src: url('courierprime-semibold-webfont.woff2') format('woff2'),
          url('courierprime-semibold-webfont.woff') format('woff');
     font-weight: 600;
