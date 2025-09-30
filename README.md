@@ -1,3 +1,3 @@
 # Pestercord
 
-
+REMAKING FROM SCRATCH
